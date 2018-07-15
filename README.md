@@ -1,4 +1,4 @@
-# newSyb
+# Basic Spring Boot app with Rest api using H2 database
 
    # List of all basic Crud APIs 
    - get  http://localhost:8080/user > list all users from h2
