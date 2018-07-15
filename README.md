@@ -7,9 +7,9 @@
   - put http://localhost:8080/user
   - h2 url http://localhost:8080/h2-console username:sa
     
-  {
-	"userId":10056,
-	 "name":"Prasannaa",
-	"phoneNo":873648364
-}
+ > {
+>	"userId":10056,
+>	 "name":"Prasannaa",
+>	"phoneNo":873648364
+>}
 
